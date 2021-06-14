@@ -43,8 +43,7 @@ https://docs.docker.com/engine/install/linux-postinstall/
 
 ## 3. Docker命令：
  
-- **拉取镜像**  
-  ``` docker pull hello-world:latest[docker 镜像地址：标签]```
+- **拉取镜像**  ``` docker pull hello-world:latest[docker 镜像地址：标签]```
 
 - 运行镜像 ``` docker run hello-world```
 
